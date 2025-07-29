@@ -1,1 +1,1 @@
-# Recipes
+This is my first practice website I created using html. It is simple and includes a home page + a link to a dish. In the second page, you can see the ingridents, steps and a picture on how to make a tortilla pizza.

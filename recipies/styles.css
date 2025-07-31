@@ -1,0 +1,40 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+h1 {
+    box-sizing: border-box;
+    font-size: 34px;
+    font-family: 'Optimistic Display', Helvetica, Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+    color: #1c2b33;
+    text-align: center;
+    font-weight: 800;
+
+}
+    
+a {
+    box-sizing: border-box;
+    display: block;
+   
+    font-size: 34px;
+    font-family: 'Optimistic Display', Helvetica, Georgia, 'Times New Roman', Times, serif;
+    color: #1c2b33;
+    text-align: center;
+    
+}
+
+img{
+    box-sizing: border-box;
+    display: block;
+    margin-left: 330px;
+    
+}
+
+h3 {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
